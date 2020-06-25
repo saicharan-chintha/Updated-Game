@@ -1,0 +1,146 @@
+{
+    "version": 11,
+    "questions": {
+        "MCQ": [
+            {
+                "type": "MCQ",
+                "value": {
+                    "question": "What should be included in acheiving happiness in life?",
+                    "option1": "Being helpful and trusting of others",
+                    "option2": "Have a sense of self-esteem",
+                    "option3": "Appreciating day-to-day living joys",
+                    "option4": "All of these",
+                    "answer": "All of these",
+                    "comment": "comment"
+                }
+            },
+            {
+                "type": "MCQ",
+                "value": {
+                    "question": "What is not an spheres of life and happiness?",
+                    "option1": "Financial health",
+                    "option2": "Spiritual life or belief system",
+                    "option3": "work and career",
+                    "option4": "Emotional superficial states",
+                    "answer": "Emotional superficial states",
+                    "comment": "comment"
+                }
+            },
+            {
+                "type": "MCQ",
+                "value": {
+                    "question": "Which of the following characterizes mood?",
+                    "option1": "Cannot tie to an event",
+                    "option2": "Cannot tie to a physiological sensation",
+                    "option4": "It is a vague general experience",
+                    "option3": "All of these",
+                    "answer": "All of these",
+                    "comment": "comment"
+                }
+            },
+            {
+                "type": "MCQ",
+                "value": {
+                    "question": "Which of the following is appropriate way fo making contact?",
+                    "option2": "Good eye-contact",
+                    "option1": "Appropriate distance and tone",
+                    "option3": "Open body position",
+                    "option4": "All of these",
+                    "answer": "All of these",
+                    "comment": "comment"
+                }
+            },
+            {
+                "type": "MCQ",
+                "value": {
+                    "question": "Which part of the brain is very primitive and response to your raw emotion?",
+                    "option2": "Amygdala",
+                    "option1": "Cerebrum",
+                    "option3": "Open body position",
+                    "option4": "None of these",
+                    "answer": "Amygdala",
+                    "comment": "comment"
+                }
+            }
+        ],
+        "SCEN": [
+            {
+                "type": "SCEN",
+                "value": {
+                    "scenario": "How are you ??",
+                    "stmt1": "am",
+                    "stmt2": "fine",
+                    "stmt3": "I",
+                    "cstmt1": "I",
+                    "cstmt2": "am",
+                    "cstmt3": "fine"
+                }
+            },
+            {
+                "type": "SCEN",
+                "value": {
+                    "scenario": "How are you ??",
+                    "stmt1": "am",
+                    "stmt2": "fine",
+                    "stmt3": "I",
+                    "cstmt1": "I",
+                    "cstmt2": "am",
+                    "cstmt3": "fine"
+                }
+            }
+        ],
+        "MATCH": [
+             {
+                "type": "MATCH",
+                "elements": [
+                    {
+                        "key": "Help",
+                        "value": "Others",
+                        "id": 0
+                    },
+                    {
+                        "key": "Work",
+                        "value": "Hard",
+                        "id": 1
+                    },
+                    {
+                        "key": "Pray",
+                        "value": "Lord",
+                        "id": 2
+                    },
+                    {
+                        "key": "Always",
+                        "value": "Smile",
+                        "id": 3
+                    }
+                ]
+            },
+            {
+                "type": "MATCH",
+                "elements": [
+                    {
+                        "key": "Help",
+                        "value": "Others",
+                        "id": 0
+                    },
+                    {
+                        "key": "Work",
+                        "value": "Hard",
+                        "id": 1
+                    },
+                    {
+                        "key": "Pray",
+                        "value": "Lord",
+                        "id": 2
+                    },
+                    {
+                        "key": "Always",
+                        "value": "Smile",
+                        "id": 3
+                    }
+                ]
+            }
+            
+        ]
+    }
+}
